@@ -1,6 +1,6 @@
 # books_app
 
-<h2>Screenshots</h2>
+<h2>Screenshotss</h2>
 
 <p float ="left">
 <img src="https://user-images.githubusercontent.com/88718312/138232933-260c8aad-f4e8-449d-8021-7fde3af8f653.jpg" width="200">
